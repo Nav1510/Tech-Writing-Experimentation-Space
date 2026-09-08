@@ -1,8 +1,8 @@
 # Technical-Writing-Portfolio: This repo contains the course materials and sample documentation efforts. <br>
 
 **Note:** <br> 
--Both the folders **DITA - Learnings** and **GitHub Practice** are duplicated folders. 
--Also, all sub-folders within **Essential Technical Writing Materials** is regularly updated.<br>
+- Both the folders **DITA - Learnings** and **GitHub Practice** are duplicated folders. 
+- Also, all sub-folders within **Essential Technical Writing Materials** is regularly updated.<br>
 
 **Essential Technical Writing Materials** has the following sub-folders:<br>
   1. **API Documentation/Image:** Course materials and a sample documentation written in GitHub Wikipage.<br>
