@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="test_profiling">
+    <title>Test Profiling</title>
+    <shortdesc>This is a sample <b>concept-topic type </b>created to test profiling in Oxygen XML
+        Author.</shortdesc>
+    <conbody>
+        <p>This user guide is for novice users.</p>
+        <example id="example_anp_crt_nkc">Test sample</example>
+        <example>
+            <title>This "Test Sample" is only for novice users.</title>
+        </example>
+    </conbody>
+</concept>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Profiling - Map</title>
+    <topicref href="learn_dita.ditamap" format="ditamap"/>
+    <mapref href="demo_map_1.ditamap" format="ditamap" audience="expert"/>
+</map>

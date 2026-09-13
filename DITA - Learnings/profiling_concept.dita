@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="profiling_concept">
+    <title>Profiling Concept</title>
+    <shortdesc>This is to test the flow when user profiling is done to a sub-topic under a
+        topic.</shortdesc>
+    <conbody>
+        <p>
+            <note id="note_q5c_hyt_nkc">This is nothing more than a sample documentation used to
+                test profiling in XML Author. </note>
+            <note id="note_xp5_jyt_nkc">Do not use it to evaluate the writing standards.</note>
+        </p>
+    </conbody>
+</concept>

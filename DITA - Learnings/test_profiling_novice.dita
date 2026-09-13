@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="test_profiling_novice">
+    <title>Test Profiling - Novice</title>
+    <shortdesc>This is to test topic-level profiling.</shortdesc>
+    <taskbody>
+        <context>Go through this task if you want to understand how topic profiling is done. The
+            case taken is "audience-type profiling".<p/></context>
+        <steps>
+            <step>
+                <cmd>Write an indendent task.</cmd>
+            </step>
+            <step>
+                <cmd>Use the task to create profiling.</cmd>
+            </step>
+            <step>
+                <cmd>Apply profiling.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

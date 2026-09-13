@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_a4j_szt_nkc">
+    <title>Reference 1</title>
+    <shortdesc>This is to demonstrate how profiling is applied at the table level.</shortdesc>
+    <refbody>
+        <example>
+            <note id="note_vdj_x15_nkc">The first table shows how profiling is applied to the entire
+                table content. </note>
+        </example>
+        <table frame="all" rowsep="1" colsep="1" id="table_xk2_wzt_nkc" audience="expert">
+            <title>Test 1</title>
+            <tgroup cols="2">
+                <colspec colnum="1" colname="c1" colwidth="1*"/>
+                <colspec colnum="2" colname="c2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Name</entry>
+                        <entry>Age</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Ezhil</entry>
+                        <entry>15</entry>
+                    </row>
+                    <row>
+                        <entry>Aruvi</entry>
+                        <entry>17</entry>
+                    </row>
+                    <row>
+                        <entry>Anbu</entry>
+                        <entry>18</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_ghn_xzt_nkc">
+            <title>Test 2</title>
+            <tgroup cols="2">
+                <colspec colnum="1" colname="c1" colwidth="1*"/>
+                <colspec colnum="2" colname="c2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Name</entry>
+                        <entry>Profession</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row audience="expert">
+                        <entry>Ezhil</entry>
+                        <entry>Lawyer</entry>
+                    </row>
+                    <row audience="novice">
+                        <entry>Aruvi</entry>
+                        <entry>Engineer Assistant</entry>
+                    </row>
+                    <row>
+                        <entry>Anbu</entry>
+                        <entry>Builder Assistant</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_kq1_yzt_nkc">
+            <title>Test 3</title>
+            <tgroup cols="2">
+                <colspec colnum="1" colname="c1" colwidth="1*"/>
+                <colspec colnum="2" colname="c2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Name</entry>
+                        <entry>Location</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Ezhil</entry>
+                        <entry>KKDI</entry>
+                    </row>
+                    <row>
+                        <entry>Aruvi</entry>
+                        <entry>DVK</entry>
+                    </row>
+                    <row>
+                        <entry>Anbu</entry>
+                        <entry>MDM</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

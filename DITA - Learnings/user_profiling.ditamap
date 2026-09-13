@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>User Profiling</title>
+    <topicref href="test_profiling_novice.dita">
+        <topicref href="profiling_concept.dita" audience="novice"/>
+    </topicref>
+    <mapref
+        href="../../../Desktop/Naveen%20Workspace/Personal/Personal%20Information/DITA%20-%20Learnings/Learn%20DITA.ditamap"
+        format="ditamap" audience="expert"/>
+</map>

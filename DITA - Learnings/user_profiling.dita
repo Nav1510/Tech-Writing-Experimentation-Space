@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="user_profiling">
+    <title>User Profiling</title>
+    <body>
+        <note id="note_i5g_dzt_nkc">This documentation is used to demonstrate how apply profiling at
+            topic element level.</note>
+        <p audience="novice">This documentation is for novice users.</p>
+        <p audience="expert">This documentation is for expert users.</p>
+    </body>
+</topic>
