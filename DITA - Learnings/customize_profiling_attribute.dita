@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="customize_profiling_attribute">
+    <title>Customize Profiling Attribute</title>
+    <shortdesc>Customize Profiling Attribute feature in DITA is a critical element for technical
+        writers in taxonomy creation.</shortdesc>
+    <conbody>
+        <note id="note_sqh_nkw_4kc">This is an advanced feature and requires specialization with
+            respect to creating a new profiling attribute.</note>
+        <p product="Version_1">Beginners can limit themselves to the customization of existing
+            profiling attributes.</p>
+        <p product="Version_2">Only advanced users can create new profiling attributes and is
+            particularly useful for adoption of DITA in a production enviornment.</p>
+    </conbody>
+</concept>

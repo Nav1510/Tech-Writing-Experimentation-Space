@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd"> 
+<subjectScheme>
+    <!-- Define the Profiling Attribute to overwrite -->
+    <subjectdef keys="audience">
+        <subjectdef keys="Customer">
+            <subjectdef keys="Administrator"/>
+            <subjectdef keys="Manager"/>
+            <subjectdef keys="End-user"/>
+        </subjectdef>
+        <subjectdef keys="Internal">
+            <subjectdef keys="Project Manager"/>
+            <subjectdef keys="Recruiter"/>
+            <subjectdef keys="Payment Personnel"/>
+        </subjectdef>
+        <subjectdef keys="Developer"/>
+    </subjectdef>
+    
+    <!-- Bind the new subject defition to an existing profiling attribute -->
+    <enumerationdef>
+        <attributedef name="audience"/>
+        <subjectdef keyref="audience"/>
+    </enumerationdef>
+    
+</subjectScheme>
