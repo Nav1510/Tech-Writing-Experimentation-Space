@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="main_principles">
+    <title>How to Use Images within DITA</title>
+    <shortdesc>This section is a sample demonstration to see how images are used within
+        DITA.</shortdesc>
+    <conbody>
+        <p>
+            <imagemap id="imagemap_ah1_mgl_pkc">
+                <image
+                    href="../../../../../../Downloads/ChatGPT%20Image%20Sep%2017,%202026,%2001_14_33%20PM.png"
+                    id="image_nyz_ggl_pkc"/>
+                <area>
+                    <shape>rect</shape>
+                    <coords>30, 270, 269, 466</coords>
+                    <xref href="main_principles.dita" format="dita">This link takes you to the Early
+                        Days of API Technical Writing</xref>
+                </area>
+            </imagemap>
+        </p>
+    </conbody>
+</concept>
