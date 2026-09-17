@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="how_to_use_links_in_dita">
+    <title>How to use links in DITA</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>This section is to explain the different ways to use links in DITA and the different
+            target types.</p>
+        <p>Linking to webpage: I am linking the blog that I authored on Generative AI to demonstrate
+            the process.<xref
+                href="https://blog.sap-press.com/generative-ai-with-sap-from-symbolic-to-statistical"
+                format="html" scope="external">click the link to read the complete blog</xref></p>
+        <p>Linking to another topic: <xref href="blogs.dita"/></p>
+        <p>Linking to a resource that is downloadable:<xref
+                href="../../../../../Documents/OF_Create_Question_Bank.pptx" format="pptx"/></p>
+    </conbody>
+</concept>

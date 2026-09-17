@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_link_a_location_in_the_same_different_topics">
+    <title>How to link a location in the same/different topics? </title>
+    <shortdesc>This section is to demonstrate how DITA approaches linking to same/different
+        locations in same/different topics.</shortdesc>
+    <taskbody>
+        <context>Choose the topic element that is capable of generating an reference ID. Without an
+            ID in place, the rendering becomes impossible.</context>
+        <steps>
+            <step>
+                <cmd>Create an ID to have the target location.</cmd>
+                <stepxmp>Most often, you will use &lt;section> topic element.</stepxmp>
+            </step>
+            <step>
+                <cmd>Create a new reference ID to the topic.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

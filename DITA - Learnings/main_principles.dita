@@ -6,15 +6,13 @@
         DITA.</shortdesc>
     <conbody>
         <p>
-            <imagemap id="imagemap_ah1_mgl_pkc">
-                <image
-                    href="../../../../../../Downloads/ChatGPT%20Image%20Sep%2017,%202026,%2001_14_33%20PM.png"
-                    id="image_nyz_ggl_pkc"/>
+            <imagemap id="imagemap_enf_q4l_pkc">
+                <image href="ChatGPT%20Image%20Sep%2017,%202026,%2001_14_33%20PM.png"
+                    id="image_kwj_p4l_pkc"/>
                 <area>
                     <shape>rect</shape>
-                    <coords>30, 270, 269, 466</coords>
-                    <xref href="main_principles.dita" format="dita">This link takes you to the Early
-                        Days of API Technical Writing</xref>
+                    <coords>28, 201, 253, 859</coords>
+                    <xref>This link takes you to the early days in API Writing</xref>
                 </area>
             </imagemap>
         </p>

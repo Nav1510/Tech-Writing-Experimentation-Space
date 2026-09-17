@@ -3,4 +3,7 @@
 <map>
     <title>My DITA Map</title>
     <topicref href="main_principles.dita"/>
+    <topicref href="how_to_use_links_in_dita.dita"/>
+    <topicref href="how_to_link_a_location_in_the_same_different_topics.dita"/>
+    <topicref href="link_different_sections_in_a_topic.dita"/>
 </map>

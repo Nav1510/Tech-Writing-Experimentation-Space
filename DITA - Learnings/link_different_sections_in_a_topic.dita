@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="link_different_sections_in_a_topic">
+    <title>Link Different Sections in a Topic</title>
+    <shortdesc>This section will demonstrate how this linking strategy works.</shortdesc>
+    <conbody>
+        <section id="Section_A">
+            <title>Section A</title>
+            <p>Here is the sample content.</p>
+        </section>
+        <section id="Section_B">
+            <title>Section B</title>
+            <p>Here is the sample content for Section B. See Section A for more information.<xref
+                    href="#./Section_A"/></p>
+        </section>
+    </conbody>
+</concept>
