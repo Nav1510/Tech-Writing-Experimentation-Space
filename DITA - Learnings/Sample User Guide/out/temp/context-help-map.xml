@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="overview" path="overview.html"/>
+   <appContext helpID="user_roles" path="user_roles.html"/>
+   <appContext helpID="prerequisites" path="prerequisites.html"/>
+   <appContext helpID="create_and_publish_job" path="create_and_publish_job.html"/>
+   <appContext helpID="step_1_job_information" path="step_1_job_information.html"/>
+   <appContext helpID="step_2_sourcing_requirement_s"
+               path="step_2_sourcing_requirement_s.html"/>
+   <appContext helpID="step_3_project_documents" path="step_3_project_documents.html"/>
+   <appContext helpID="manage_jobs" path="manage_jobs.html"/>
+   <appContext helpID="view_active_job_details" path="view_active_job_details.html"/>
+   <appContext helpID="view_documents" path="view_documents.html"/>
+   <appContext helpID="edit_active_jobs" path="edit_active_jobs.html"/>
+   <appContext helpID="place_job_on_hold" path="place_job_on_hold.html"/>
+   <appContext helpID="edit_and_publish_modified_jobs"
+               path="edit_and_publish_modified_jobs.html"/>
+   <appContext helpID="close_active_jobs" path="close_active_jobs.html"/>
+   <appContext helpID="find_talent" path="find_talent.html"/>
+   <appContext helpID="sections_under_find_talent"
+               path="sections_under_find_talent.html"/>
+   <appContext helpID="select_resources" path="select_resources.html"/>
+   <appContext helpID="send_email_invite_to_selected_resources"
+               path="send_email_invite_to_selected_resources.html"/>
+   <appContext helpID="post_jobs_to_vendor_resources"
+               path="post_jobs_to_vendor_resources.html"/>
+   <appContext helpID="for_professionals" path="for_professionals.html"/>
+   <appContext helpID="for_agencies" path="for_agencies.html"/>
+   <appContext helpID="invite_vendor_resources_for_jobs_from_resource_management"
+               path="invite_vendor_resources_for_jobs_from_resource_management.html"/>
+   <appContext helpID="for_crowd_private_jobs" path="for_crowd_private_jobs.html"/>
+   <appContext helpID="view_pending_job_invites" path="view_pending_job_invites.html"/>
+   <appContext helpID="for_professionals_0" path="for_professionals_0.html"/>
+   <appContext helpID="for_agency" path="for_agency.html"/>
+</map>
