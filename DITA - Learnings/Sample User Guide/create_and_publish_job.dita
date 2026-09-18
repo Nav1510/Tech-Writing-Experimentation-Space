@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="create_and_publish_job">
+    <title>Create and Publish Job</title>
+    <body>
+        <p>As a recruiter, you can create and publish a job. This job will be based on the resource
+            request made by the Project Manager.</p>
+    </body>
+</topic>

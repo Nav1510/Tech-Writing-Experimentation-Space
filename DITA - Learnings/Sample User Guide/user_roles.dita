@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="user_roles">
+    <title>User Roles</title>
+    <body>
+        <p>Only the following roles have access to these menus.</p>
+        <ol id="ol_s21_5ls_pkc">
+            <li>Recruitment team lead</li>
+            <li>Recruiter</li>
+        </ol>
+    </body>
+</topic>

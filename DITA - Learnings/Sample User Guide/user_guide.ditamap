@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>User Guide</title>
+    <topicref href="overview.dita"/>
+    <topicref href="user_roles.dita"/>
+    <topicref href="prerequisites.dita"/>
+    <topicref href="create_and_publish_job.dita">
+        <topicref href="step_1_job_information.dita"/>
+        <topicref href="step_2_sourcing_requirement_s.dita"/>
+        <topicref href="step_3_project_documents.dita"/>
+    </topicref>
+    <topicref href="manage_jobs.dita">
+        <topicref href="view_active_job_details.dita">
+            <topicref href="view_documents.dita"/>
+        </topicref>
+        <topicref href="edit_active_jobs.dita">
+            <topicref href="place_job_on_hold.dita"/>
+            <topicref href="edit_and_publish_modified_jobs.dita"/>
+        </topicref>
+        <topicref href="close_active_jobs.dita"/>
+    </topicref>
+    <topicref href="find_talent.dita">
+        <topicref href="sections_under_find_talent.dita"/>
+        <topicref href="select_resources.dita"/>
+        <topicref href="send_email_invite_to_selected_resources.dita"/>
+    </topicref>
+    <topicref href="post_jobs_to_vendor_resources.dita">
+        <topicref href="for_professionals.dita"/>
+        <topicref href="for_agencies.dita"/>
+    </topicref>
+    <topicref href="invite_vendor_resources_for_jobs_from_resource_management.dita">
+        <topicref href="for_crowd_private_jobs.dita">
+            <topicref href="view_pending_job_invites.dita"/>
+        </topicref>
+        <topicref href="for_professionals_0.dita"/>
+        <topicref href="for_agency.dita"/>
+    </topicref>
+</map>

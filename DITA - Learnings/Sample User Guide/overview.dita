@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="overview">
+    <title>Overview</title>
+    <body>
+        <p>This is a sample documentation to demonstrate my hands-on proficiency in DITA using
+            OxygenXMLAuthor. <ul id="ul_mjj_yls_pkc">
+                <li>The version I am on is 28.1</li>
+                <li>The topics are a replica of an existing user guide of a workforce management
+                    platform I have documented. Note that all the topics will be empty.</li>
+                <li>This is exclusively created to test output transformation. Therefore, please do
+                    not expect to see demonstrations related to reusability, profiling, or any other
+                    subjects of DITA.</li>
+            </ul></p>
+        <p>After a project is published by the PM, the Recruitment Director assigns the project
+            requirement as a job to the Recruitment Team Lead. The Recruitment Lead then assigns
+            that job requirement to a recruiter. The Recruiter is responsible for creating the job
+            posting and publishing it to the application.</p>
+    </body>
+</topic>

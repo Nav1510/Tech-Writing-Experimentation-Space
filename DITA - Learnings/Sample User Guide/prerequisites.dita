@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="prerequisites">
+    <title>Prerequisites</title>
+    <body>
+        <p>In order to create and publish a job, you need the following:<ul id="ul_dtr_4ms_pkc">
+                <li>An active project published by the PM.</li>
+                <li>Access to the RM module either as Recruitment Team Lead or as a Recruiter.</li>
+            </ul></p>
+    </body>
+</topic>
